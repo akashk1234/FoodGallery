@@ -1,0 +1,128 @@
+
+.parent{
+    height: 600px;
+    background-color: rgb(255, 149, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background: linear-gradient(107deg, rgb(255, 126, 5) 11.1%, rgb(245, 192, 0) 95.3%); */
+    
+
+}
+.col{
+    height: 430px;
+    width: 240px;
+    box-shadow: rgba(0, 0, 0, 0.35) 8.4px 8.4px 10.2px;
+    /* background-color: rgb(69, 69, 69); */
+    border-radius: 40px;
+
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a5a5a5+0,0e0e0e+100 */
+background: #a5a5a5; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #a5a5a5 0%, #0e0e0e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #a5a5a5 0%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #a5a5a5 0%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5a5a5', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    
+}
+h1{
+    position: absolute;
+    margin-left: 800px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+span{
+    color: rgb(49, 49, 49);
+}
+
+.col2{
+    width: 240px;
+    height: 280px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -1050px;
+    border-radius: 40px;
+    
+    
+    
+}
+.img1{
+    width: 220px;
+    height: 220px;
+     
+     border-radius: 100px; 
+    margin-left: 0px;
+    margin-top: -120px;
+}
+h2{
+    font-family: 'Segoe UI';
+    margin-top: -20px;
+    text-align: center;
+}
+p{
+    font-family: 'segoe UI';
+    text-align: justify;
+    padding:0px 15px;
+    font-weight: 400;
+    color: #808080;
+    
+}
+button{
+    height: 40px;
+    width: 170px;
+    background-color: rgb(1, 200, 1);
+    color: white;
+    font-family: monospace;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 25px;
+}
+.img2{
+    width: 170px;
+    height: 170px;
+     
+     border-radius: 100px; 
+    margin-left: 20px;
+    margin-top: -90px;
+}
+.a2{
+    margin-top: 21px;
+}
+.img3{
+    width: 170px;
+    height: 170px;
+     
+     border-radius: 100px; 
+    margin-left: 20px;
+    margin-top: -90px;
+}
+.img4{
+    width: 185px;
+    height: 170px;
+     
+     border-radius: 100px; 
+    margin-left: 20px;
+    margin-top: -90px;
+}
+.img5{
+    width: 190px;
+    height: 190px;
+     
+     border-radius: 100px; 
+    margin-left: 15px;
+    margin-top: -100px;
+}
+.a5{
+    margin-top: 10px;
+}
+.m2{
+    margin-top: -700px;
+}
+
+
+
+
+
+
